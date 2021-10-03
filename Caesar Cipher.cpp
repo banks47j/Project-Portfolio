@@ -1,6 +1,6 @@
 /******************************************************************************
-Programming Foundations 1 - Project 3 "Caesar Cipher"
--Johnathan Banks (9/22/21)
+Caesar Cipher
+Johnathan Banks (9/22/21)
 *******************************************************************************/
 #include <iostream>
 #include <string>
